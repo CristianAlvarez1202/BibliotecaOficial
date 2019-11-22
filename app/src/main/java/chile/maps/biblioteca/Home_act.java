@@ -14,7 +14,7 @@ public class Home_act extends AppCompatActivity {
     private ViewFlipper vf;
     private int[] images = {R.drawable.a, R.drawable.b, R.drawable.c};
     private String[] nombres = {"Farenheit","Revival","Tesla"};
-    private int[] valores = {5000,12000,25000};
+    private int[] valores = {5000,12000,25000,45000,50000};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
